@@ -1,0 +1,44 @@
+body{
+	background-image: url(aventador.jpg);
+	}
+
+
+p {
+	text-align: center;
+	color: whitesmoke;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bolder;
+	  background: linear-gradient(to right, blue , lightgreen);
+	      box-shadow: 1px 10px 5px white;
+
+
+	color: white;
+}
+
+h4{
+	text-decoration: underline;
+	text-align:center;
+	font-style: italic;
+	text-decoration: blink;
+	text-decoration: inherit;
+	color: whitesmoke;
+	}
+	
+	
+button {
+	 border-radius: 25px;
+	font: icon;
+	font-size: 18px;
+	text-align: center;
+	width: 120px;
+    height: 30px;
+    background-color:darkorange;
+    position: inherit;
+
+    animation-name: example;
+    animation-duration: 4s;
+}
